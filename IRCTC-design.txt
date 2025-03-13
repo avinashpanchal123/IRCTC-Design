@@ -1,6 +1,8 @@
-Each user should have a profile with personal details
-Users should be able to search trains by train number and via source and destination.
-Users should be able to see the number of available seats, given the train, source, and destination.
-Users should be able to book tickets (The system should be able to handle concurrent booking requests in a fair manner).
-Seat Reusability of booked seats IS allowed. (User A books a seat S1 from station1 to station2 then UserB should be able to book the same seat S1 from station3 onwards).
-Users should be able to cancel a booked ticket.
+Functional Requirements
+
+1) Each user should have a profile with personal details
+2) Users should be able to search trains by train number and via source and destination.
+3) Users should be able to see the number of available seats, given the train, source, and destination.
+4) Users should be able to book tickets (The system should be able to handle concurrent booking requests in a fair manner).
+5) Seat Reusability of booked seats IS allowed. (User A books a seat S1 from station1 to station2 then UserB should be able to book the same seat S1 from station3 onwards).
+6) Users should be able to cancel a booked ticket.
